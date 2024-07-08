@@ -1,0 +1,11 @@
+body {
+  background-color: beige;
+
+  @media screen and (max-width:767px) {
+    background-color: black;
+  }
+}
+
+a {
+  text-decoration: none;
+}
